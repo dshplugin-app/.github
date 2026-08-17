@@ -22,7 +22,11 @@ DSH Plugin Registry is an independent directory for the DeepSeek Harness plugin 
 
 A continuously updated GitHub directory of DeepSeek Harness plugins indexed by DSH Plugin Registry.
 
-Coming next: `deepseek-harness-plugins`
+## Projects
+
+### [DeepSeek Harness Plugins](https://github.com/dshplugin-app/deepseek-harness-plugins)
+
+A maintained GitHub directory of DeepSeek Harness plugins, organized by capability and connected to detailed entries in DSH Plugin Registry.
 
 ---
 
